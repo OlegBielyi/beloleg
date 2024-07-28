@@ -1,0 +1,123 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    color: #333333;
+}
+
+.zagolovok {
+    margin-top: 80px;
+    line-height: 1.5;
+    text-align: center;
+    font-size: 24px;
+}
+
+.zagolovok span {
+    display: block;
+    font-weight: 100;
+}
+
+.zagolovok strong {
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.main {
+    margin-top: 80px;
+     text-align: center;
+}
+
+.container {
+    padding: 30px 10%;
+}
+
+.video,
+.form {
+    
+    vertical-align: top;
+    display: inline-block;
+}
+
+.form {
+   
+    margin-left:35px;
+    padding: 20px;
+    border: 5px solid #2727d9;
+    text-align: center;
+}
+
+.form-header {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+
+.form input {
+    margin-bottom: 10px;
+    width: 300px;
+    height: 50px;
+    display: block;
+    padding: 17px;
+    border: 1px solid #333333;
+}
+
+.form-btn {
+	font-size: 18px;
+    font-weight: 900;
+    color: #fff;
+    background: #2727d9;
+    border:none;
+    width:300px;
+    height:65px;
+ display:block;
+    margin: 11px auto;
+}
+
+
+/*Вторая часть*/
+
+.two-box h2{
+    margin-top:145px;
+	text-transform: uppercase;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+}
+.col img{
+    width:75px;
+    height:75px;
+    
+}
+.col{
+    display: inline-block;
+    text-align: center;
+    margin: 20px 60px;
+    width:125px;
+    margin-bottom: 95px;
+}
+.preimuschestvo {
+	text-align: center;
+}
+
+/*Третий блок*/
+
+
+.three-box h3{
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: 600px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom:55px;
+}
+
+.foto{
+    text-align: center;
+    
+}
+.foto img{
+    padding:17px 12px;
+}
